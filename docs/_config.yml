@@ -1,0 +1,13 @@
+title: Horizon Daily
+description: Noticias de cloud, seguridad e inteligencia artificial
+theme: jekyll-theme-cayman
+url: https://gilberth.github.io
+baseurl: /horizon-daily
+markdown: kramdown
+future: true
+defaults:
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: default
